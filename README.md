@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do Gui-Skyer ☁
- 
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+
  <div>
-   <a href="https://github.com/Gui-Skyer">
+   <a href="https://github.com/Gui-Skye">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Skyer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Skyer&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -14,10 +14,8 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div> 
   <a href="https://www.instagram.com/skye3rr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="skyerbenicio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:skyerbenicio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-espinha-5b1876231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
